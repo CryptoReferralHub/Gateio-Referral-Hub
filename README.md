@@ -92,12 +92,8 @@
   and take your trading experience to the next level.
 </p>
 
-<a
-  href="https://github.com/CryptoReferralHub/Gateio-Referral-Hub"
-  class="signup-link"
-  target="_blank"
->
-  Learn more about <strong>Gate io Referral Code - Gate io Referral Hub</strong>
+<a href="https://github.com/CryptoReferralHub/Gateio-Referral-Hub" class="signup-link" target="_blank">
+        Learn more about <strong>Gate io Referral Code - Gate io Referral Hub</strong>
   <i class="fas fa-user-plus"></i>
 </a>
 
