@@ -51,3 +51,12 @@
 <h2>Contact</h2>
 <p>For any questions or inquiries, feel free to reach out via GitHub Issues.</p>
 
+<a href="https://github.com/CryptoReferralHub/Gateio-Referral-Hub" class="signup-link" target="_blank">
+        Learn more about <strong>Gate io Referral Code - Gate io Referral Hub</strong>
+  <i class="fas fa-user-plus"></i>
+</a>
+
+<p>
+  For the latest updates, visit the official <strong>Gate io website</strong> or
+  follow their social media channels. 🚀
+</p>
